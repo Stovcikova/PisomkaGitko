@@ -2,6 +2,8 @@ package sk.kosickaakademia.stovcikova.piskorky;
 
 public class Winner {
     public int isWinner(int[][] m){
+        System.out.println("Henika je víťaz");
+
         int r=15;
         int s=15;
         int i,j;
